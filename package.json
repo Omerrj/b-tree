@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "dev": "bun run index.ts",
+    "tree": "bun run index.ts",
     "hash": "bun run hashing.ts"
   },
   "devDependencies": {
