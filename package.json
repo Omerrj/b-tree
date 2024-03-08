@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "tree": "bun run index.ts",
-    "hash": "bun run hashing.ts"
+    "staticHash": "bun run staticHash.ts",
+    "dynamicHash": "bun run dynamicHash.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
